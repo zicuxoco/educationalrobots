@@ -1,0 +1,52 @@
+
+1. Instalacion de entorno
+
+http://wubi-installer.org/
+http://java.sun.com/javase/downloads/index.jsp
+http://lejos.sourceforge.net/
+http://www.eclipse.org/downloads/
+http://www.bluej.org/download/download.html
+
+2. Prueba de instalacion
+
+3. LeJOS
+
+1. Concepto de clase en Java y su analogia con respecto a un robot.
+
+Un clase tenia:
+
+Propiedades - De lo que se compone un robot
+Metodos - Que hace el robot
+
+Metodos publicos - mover un brazo
+Metodos privados - digestion del estomago (Nadie lo ve)
+
+Concepto de la Clase del robot
+
+Secuencia
+Ejemplo de motores
+
+
+
+Ejemplo de sonido
+Bifurcacion
+Ejemplo con sensores
+Iteracion
+Ejemplo con pantalla
+
+Actuadores
+
+Motores
+Pantalla
+Sonido
+
+Sensores
+
+Ultrasonido
+Tacto
+Luz
+Camara
+SigueLineas
+
+Comunicaciones con bluetooth con Robot y con Android
+
