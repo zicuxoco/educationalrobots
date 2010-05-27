@@ -29,7 +29,8 @@ public class HTSensorMux2 extends I2CSensor {
    public HTSensorMux2(I2CPort port) {
       super(port);
       port.setType(TYPE_LOWSPEED_9V);
-      this.setAddress(0x10/2);
+      //this.setAddress(0x10/2);
+      this.setAddress(0x10);
    }
    
    public String getProductID(){
@@ -151,7 +152,7 @@ public class HTSensorMux2 extends I2CSensor {
 	   //Xander, in this part, I have doubt to know how to read the distance.
 	   //Read 1st byte from Channel 1 I2C buffer: 0x10 0x40
 	   byte[] buf = new byte[1];
-	   setAddress(0x10);
+	   //setAddress(0x10);
 	   int ret = getData(0x40,buf,1);
 	   int currentDistance = buf[0] & 0xff; //(ret == 0 ? (buf[0] & 0xff) : 255);
 	   return currentDistance;
