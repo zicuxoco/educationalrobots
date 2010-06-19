@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SerHumano()
+comment1.params=_sexo\ _raza
+comment1.target=SerHumano(String,\ String)
+comment2.target=void\ privateMessage()
+comment3.target=void\ profile()
+comment4.params=_sexo
+comment4.target=void\ setSexo(String)
+comment5.params=_raza
+comment5.target=void\ setRaza(String)
+numComments=6
