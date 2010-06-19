@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(String[])
+comment1.params=iteration
+comment1.target=void\ inferir(int)
+comment2.target=void\ updateStatus()
+numComments=3
