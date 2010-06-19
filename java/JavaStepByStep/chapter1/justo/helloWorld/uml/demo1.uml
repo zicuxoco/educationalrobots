@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Package xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_8uQQMXv5Ed-XvOQlrx44Tg" name="demo1">
+  <elementImport xmi:id="_827EAHv5Ed-XvOQlrx44Tg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_83KUkHv5Ed-XvOQlrx44Tg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_83K7oHv5Ed-XvOQlrx44Tg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_83K7oXv5Ed-XvOQlrx44Tg">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_Bf3lEHv6Ed-XvOQlrx44Tg" name="HW">
+    <ownedAttribute xmi:id="_GYtjUHv6Ed-XvOQlrx44Tg" name="message" aggregation="composite"/>
+    <ownedOperation xmi:id="_HlBlcHv6Ed-XvOQlrx44Tg" name="operation"/>
+    <ownedOperation xmi:id="_IalUcHv6Ed-XvOQlrx44Tg" name="operation1"/>
+    <ownedOperation xmi:id="_Ijy60Hv6Ed-XvOQlrx44Tg" name="operation2"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Interface" xmi:id="_qGJ3MHv6Ed-XvOQlrx44Tg" name="Interface">
+    <generalization xmi:id="_0NCAkHv6Ed-XvOQlrx44Tg" general="_Bf3lEHv6Ed-XvOQlrx44Tg"/>
+    <ownedAttribute xmi:id="_r5zmIHv6Ed-XvOQlrx44Tg" name="iProperty" aggregation="composite"/>
+    <ownedOperation xmi:id="_tkBFMHv6Ed-XvOQlrx44Tg" name="operation"/>
+  </packagedElement>
+</uml:Package>
