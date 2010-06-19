@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=ticketCost
+comment0.target=Maquina_nueva(int)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Maquina_nueva\n\n
+comment1.target=int\ getPrice()
+comment1.text=Precio\ del\ tike\ \n
+comment2.target=int\ getBalance()
+comment2.text=\n
+comment3.params=amount
+comment3.target=void\ insertMoney(int)
+comment3.text=\n
+comment4.target=void\ printTicket()
+comment4.text=Impresion\ del\ Tike\ \n
+comment5.target=int\ refundBalance()
+comment5.text=\n
+numComments=6
