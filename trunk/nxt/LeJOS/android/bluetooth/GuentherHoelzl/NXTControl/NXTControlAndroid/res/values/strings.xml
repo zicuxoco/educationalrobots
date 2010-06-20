@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">NXTControl 2.0</string>
-    <string name="about_comments">2010 by Guenther Hoelzl</string>
-    <string name="connect">Connect</string>
-    <string name="disconnect">Disconnect</string>
-    <string name="action">Action!</string>
-</resources>
