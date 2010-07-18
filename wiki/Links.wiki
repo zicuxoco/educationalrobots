@@ -1,4 +1,3 @@
-
 Architectural Paradigms of Robotic Control 
 
 http://devlicio.us/blogs/billy_mccafferty/archive/2010/02/03/software-architectural-approaches-for-robotics.aspx
@@ -10,6 +9,7 @@ http://sourceforge.net/apps/mediawiki/moast/index.php?title=Main_Page
 4D/RCS
 
 http://www.isd.mel.nist.gov/projects/rcs/ref_model/ch1.htm
+http://en.wikipedia.org/wiki/Real-time_Control_System_Software
 
 Interesting Companies:
 
