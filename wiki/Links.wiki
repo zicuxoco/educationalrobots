@@ -10,6 +10,7 @@ http://sourceforge.net/apps/mediawiki/moast/index.php?title=Main_Page
 
 http://www.isd.mel.nist.gov/projects/rcs/ref_model/ch1.htm
 http://en.wikipedia.org/wiki/Real-time_Control_System_Software
+http://en.wikipedia.org/wiki/4D-RCS_Reference_Model_Architecture
 
 Interesting Companies:
 
